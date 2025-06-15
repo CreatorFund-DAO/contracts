@@ -1,7 +1,7 @@
 ---
 
 #  **Integration Flow: CreatorFundDAO + Story Protocol**
-
+---
 ### **1. Registering the IP with Story Protocol**
 
 When a **creator or the DAO** wants to tokenize their intellectual property:
